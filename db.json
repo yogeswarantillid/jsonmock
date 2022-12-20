@@ -47158,15 +47158,18 @@
     "sectionList": [
       {
         "sectionId": 7,
-        "sectionName": "ScotiaBank"
+        "sectionName": "ScotiaBank",
+        "sectionLocation":[{"lat": 52.832357,"lng": -1.384159}, {"lat": 52.827800,"lng": -1.373344}]
       },
       {
         "sectionId": 28,
-        "sectionName": "East Stadium"
+        "sectionName": "East Stadium",
+        "sectionLocation":[{"lat": 52.832357,"lng": -1.384159}, {"lat": 52.827800,"lng": -1.373344}]
       },
       {
         "sectionId": 31,
-        "sectionName": "M A chepauk"
+        "sectionName": "M A chepauk",
+        "sectionLocation":[{"lat": 52.832357,"lng": -1.384159}, {"lat": 52.827800,"lng": -1.373344}]
       }
     ],
     "levelList": [
@@ -47174,25 +47177,29 @@
         "levelId": 66,
         "levelName": "W Level",
         "levelImage": "https://www.nicepng.com/png/full/173-1735546_seating-plan-wembley-stadium.png",
-        "sectionId": 28
+        "sectionId": 28,
+        "levelLocation": [{"lat": 52.83164614840347,"lng": -1.3826082670276674}, {"lat": 52.82889772582358,"lng": -1.3753984891956361}]
       },
       {
         "levelId": 1074,
         "levelName": "W Level 123",
         "levelImage": "https://www.nicepng.com/png/full/195-1951704_twickenham-stadium-seating-plan-m24-row-67.png",
-        "sectionId": 28
+        "sectionId": 28,
+        "levelLocation": [{"lat": 52.83164614840347,"lng": -1.3826082670276674}, {"lat": 52.82889772582358,"lng": -1.3753984891956361}]
       },
       {
         "levelId": 1088,
         "levelName": "Full Stadium",
         "levelImage": "https://www.nicepng.com/png/detail/908-9081284_stadium-allianz-arena-munich-seating-plan.png",
-        "sectionId": 7
+        "sectionId": 7,
+        "levelLocation": [{"lat": 52.83164614840347,"lng": -1.3826082670276674}, {"lat": 52.82889772582358,"lng": -1.3753984891956361}]
       },
       {
         "levelId": 88,
         "levelName": "Full Stadium 2",
         "levelImage": "http://www.tothe92.co.uk/groundguide/images/stadiumlayout/manchestercitystadia.jpg",
-        "sectionId": 31
+        "sectionId": 31,
+        "levelLocation": [{"lat": 52.83164614840347,"lng": -1.3826082670276674}, {"lat": 52.82889772582358,"lng": -1.3753984891956361}]
       }
     ]
   },
@@ -47279,8 +47286,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                -74.27373966121675,
-                40.76300472134981
+                -1.3797920282901546,
+                52.83129641044736
               ]
             }
           },
@@ -47311,8 +47318,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                -74.14366829299124,
-                40.73336805573298
+                -1.3807146472298018,
+                52.83080878097949
               ]
             }
           }
